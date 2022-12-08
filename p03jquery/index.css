@@ -1,0 +1,22 @@
+table {
+    background-color: yellow;
+    color: black;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+tr, td {
+    padding: 20px;
+    font-weight: bold;
+}
+
+* {
+    text-align: center;
+}
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+}
